@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, Video
-https://cdn2-vod-mp4.ntv.ru/promo/2026/20260420/mv200426_hqIhVFISSrgssouNod_lo.mp4?ts=1776916744&md5=iAYgTtTJ_yTEEaL3c7dOUA
+https://1309591.akamaized.net/hls/live/2039590/prod01/d067678be12a00835cd893095e201a1c1c24abfb/5002-video/hdntl=exp=1784142992~acl=%2f*~id=9ec96c45ca014e8a859166aa4eabe297~data=hdntl~hmac=2433ca61364afd3745594eb1110d910e9a67a4b201ef0a023453126ddb7ee03e/video.m3u8
 #EXTINF:-1, Audio
-https://er-cdn.ertelecom.ru/os/video/hls/218dc2c819c2cf9d83d1f7f111a9fb3828deec413f233b5ab3485
+https://1309591.akamaized.net/hls/live/2039590/prod01/d067678be12a00835cd893095e201a1c1c24abfb/5001-264/hdntl=exp=1784142992~acl=%2f*~id=9ec96c45ca014e8a859166aa4eabe297~data=hdntl~hmac=2433ca61364afd3745594eb1110d910e9a67a4b201ef0a023453126ddb7ee03e/audio.m3u8
