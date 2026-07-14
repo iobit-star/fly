@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1,1_"Первый"
+https://cdn2-vod-mp4.ntv.ru/promo/2026/20260420/mv200426_hqIhVFISSrgssouNod_lo.mp4?ts=1776916744&md5=iAYgTtTJ_yTEEaL3c7dOUA
+#EXTINF:-1,2_"Россия 1"
+https://er-cdn.ertelecom.ru/os/video/hls/218dc2c819c2cf9d83d1f7f111a9fb3828deec413f233b5ab3485
